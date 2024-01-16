@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jabulane-db-core": "^1.0.0"
+    "jabulane-db-core": "^1.0.2"
   }
 }
